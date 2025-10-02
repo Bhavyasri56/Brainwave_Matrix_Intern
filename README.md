@@ -1,6 +1,4 @@
 # Brainwave_Matrix_Intern
-“This repo contains my internship tasks with Brainwave Matrix Solutions. Task 1: Python ATM Interface project.”
-# Brainwave_Matrix_Intern
 
 This repository contains my internship tasks with **Brainwave Matrix Solutions**.  
 **Task 1**: Create a fully functional **ATM Interface using Python**.
